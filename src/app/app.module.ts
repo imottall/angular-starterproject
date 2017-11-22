@@ -34,7 +34,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     ShoppingListComponent,
     ShoppingEditComponent,
     RecipeStartComponent,
-    RecipeEditComponent
+    RecipeEditComponent,
+    DropdownDirective
   ],
   imports: [
     BrowserModule,
